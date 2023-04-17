@@ -1,6 +1,6 @@
 *.png
 
-/checkpoint
+/checkpoints
 /checkpoint1
 /checkpoint_int
 /backup
