@@ -1,5 +1,5 @@
 # Active-Learning
-Research and build an active learning for instance segmentation of foot bone CT images collecting from Vinmec hospital.
+Research and build an active learning for instance segmentation of foot bone CT images collecting from prestige hospitals in Vietnam.
 
 
 # Results of Active Learning system
